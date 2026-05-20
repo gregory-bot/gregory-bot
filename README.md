@@ -8,7 +8,7 @@ A considerable amount of my time is spent on projects that sit at the intersecti
 
 ---
 
-- I am currently working as a Software Engineer at the **Center for Quality Health and Innovation (CHQI), University of Nairobi** a USAID-funded research programme focused on improving health outcomes through data-driven tools.
+- I am currently working as a Software Engineer at the [Center for Quality Health and Innovation (CHQI), University of Nairobi](https://chqi.uonbi.ac.ke/) — a USAID-funded research programme focused on improving health outcomes through data-driven tools.
 
 - Previously, I have worked with **Annex Technologies**, **goCode Softwares**, and **Data Science East Africa**, building data pipelines, ML systems, and analytics infrastructure across fintech, public health, and enterprise analytics.
 
@@ -16,7 +16,7 @@ A considerable amount of my time is spent on projects that sit at the intersecti
 
 - Ask me about Data Engineering, ML pipelines, Data Pipelines, RAG systems, and building data products.
 
-- How to reach me: [kipngenogregory@gmail.com](mailto:kipngenogregory@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kipngeno-gregory-47370a370/) · [X / Twitter](https://x.com/gregorytechKE)
+- How to reach me: [kipngenogregory@gmail.com](mailto:kipngenogregory@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kipngeno-gregory-47370a370/) · [X / Twitter](https://x.com/gregorytechKE) . [my work](https://gregory.co.ke/)
 
 ---
 
@@ -58,12 +58,4 @@ A considerable amount of my time is spent on projects that sit at the intersecti
 
 ---
 
-### GitHub Stats
-
-![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregory-bot&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregory-bot&layout=compact&hide_border=true&theme=default)
-
----
-
-*Open to collaborations on data infrastructure, AI for Good, and open-source tooling for African markets.*
+*Open to collaborations on data infrastructure, software for Good, and open-source tooling for African markets.*
