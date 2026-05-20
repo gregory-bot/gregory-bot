@@ -2,13 +2,13 @@
 
 Software and Data Engineer with 5+ years of experience, combining strong technical expertise with excellent communication skills. I work seamlessly with stakeholders across diverse teams to deliver impactful data solutions.
 
-A considerable amount of my time is spent on projects that sit at the intersection of data infrastructure and social good. I am currently building [remboglow.com](https://remboglow.com) — a beauty platform designed for African skin tones.
+A considerable amount of my time is spent on projects that sit at the intersection of data infrastructure and social good. I am currently building [remboglow.com](https://remboglow.com) , beauty platform designed for African skin tones.
 
 **Core languages:** Python · SQL · React · TypeScript
 
 ---
 
-- I am currently working as a Software Engineer at the [Center for Quality Health and Innovation (CHQI), University of Nairobi](https://chqi.uonbi.ac.ke/) — a USAID-funded research programme focused on improving health outcomes through data-driven tools.
+- I am currently working as a Software Engineer at the [Center for Quality Health and Innovation (CHQI), University of Nairobi](https://chqi.uonbi.ac.ke/), USAID-funded research programme focused on improving health outcomes through data-driven tools.
 
 - Previously, I have worked with **Annex Technologies**, **goCode Softwares**, and **Data Science East Africa**, building data pipelines, ML systems, and analytics infrastructure across fintech, public health, and enterprise analytics.
 
