@@ -1,14 +1,14 @@
 ## Hi there, I'm Gregory Kipngeno
 
-Software and Data Engineer with 5+ years of experience, combining strong technical expertise with excellent communication skills. I work seamlessly with stakeholders across diverse teams to deliver impactful data solutions.
+Software and Data Engineer combining strong technical expertise with excellent communication skills. I work seamlessly with stakeholders across diverse teams to deliver impactful data solutions.
 
-A considerable amount of my time is spent on projects that sit at the intersection of data infrastructure and social good. I am currently building [remboglow.com](https://remboglow.com) , beauty platform designed for African skin tones.
+A considerable amount of my time is spent on projects that sit at the intersection of data infrastructure and social good.
 
 **Core languages:** Python · SQL · React · TypeScript
 
 ---
 
-- I am currently working as a Software Engineer at the [Center for Quality Health and Innovation (CHQI), University of Nairobi](https://chqi.uonbi.ac.ke/), USAID-funded research programme focused on improving health outcomes through data-driven tools.
+- Currently working as a Software Engineer at the [Center for Quality Health and Innovation (CHQI), University of Nairobi](https://chqi.uonbi.ac.ke/), USAID-funded research programme focused on improving health outcomes through data-driven tools.
 
 - Previously, I have worked with **Annex Technologies**, **goCode Softwares**, and **Data Science East Africa**, building data pipelines, ML systems, and analytics infrastructure across fintech, public health, and enterprise analytics.
 
@@ -57,5 +57,3 @@ A considerable amount of my time is spent on projects that sit at the intersecti
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
-*Open to collaborations on data infrastructure, software for Good, and open-source tooling for African markets.*
