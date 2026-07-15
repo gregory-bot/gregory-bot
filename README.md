@@ -1,6 +1,6 @@
 ## Hi there, I'm Gregory Kipngeno
 
-Software and Data Engineer combining strong technical expertise with excellent communication skills. I work seamlessly with stakeholders across diverse teams to deliver impactful data solutions.
+Data and Software Engineer combining strong technical expertise with excellent communication skills. I work seamlessly with stakeholders across diverse teams to deliver impactful data solutions.
 
 A considerable amount of my time is spent on projects that sit at the intersection of data infrastructure and social good.
 
