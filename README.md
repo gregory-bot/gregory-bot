@@ -8,7 +8,7 @@ A considerable amount of my time is spent on projects that sit at the intersecti
 
 ---
 
-- Currently a Software Engineer at [Center for Quality Health and Innovation (CHQI), University of Nairobi](https://chqi.uonbi.ac.ke/), UoN funded research programme focused on improving health outcomes through data-driven tools.
+- Currently a Data Scientist at Umba 
 
 - Previously, I have worked with **Annex Technologies**, **goCode Softwares**, and **The LT Labs Ventures**, building data pipelines, ML systems, and analytics infrastructure across fintech, **public health**, and enterprise analytics.
 
