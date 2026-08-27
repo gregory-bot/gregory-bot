@@ -10,7 +10,7 @@ A considerable amount of my time is spent on projects that sit at the intersecti
 
 - Currently a Data Scientist at Umba 
 
-- Previously, I have worked with **Annex Technologies**, **goCode Softwares**, and **The LT Labs Ventures**, building data pipelines, ML systems, and analytics infrastructure across fintech, **public health**, and enterprise analytics.
+- Previously, I have worked with **University of Nairobi Health Funded Programs**, **Annex Technologies**, **goCode Software's**, and **The LT Labs Ventures**, building data pipelines, ML systems, and analytics infrastructure across fintech, **public health**, and enterprise analytics.
 
 - I am also building communities and making technical education accessible across East Africa. I have been involved with **LuxDevHQ**, **Data Science East Africa**, and various mentorship initiatives for engineers.
 
